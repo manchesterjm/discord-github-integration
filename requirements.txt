@@ -1,0 +1,17 @@
+# Discord Bot Dependencies
+discord.py>=2.3.0
+
+# GitHub API Integration
+PyGithub>=2.1.0
+
+# Web Server for Webhooks
+Flask>=3.0.0
+
+# Environment Variables Management
+python-dotenv>=1.0.0
+
+# Async HTTP Requests
+aiohttp>=3.9.0
+
+# Date/Time Utilities
+python-dateutil>=2.8.0
